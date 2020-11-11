@@ -1,0 +1,1453 @@
+fileFormatVersion: 2
+guid: 5fcf47cc88423934d908f3f7feb79499
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4518639658995357782
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_0
+  - first:
+      213: 6527813373372283374
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_1
+  - first:
+      213: 566520891794107552
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_2
+  - first:
+      213: -3538210159057328529
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_3
+  - first:
+      213: -114522794975353038
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_4
+  - first:
+      213: 5532019999379905822
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_5
+  - first:
+      213: 8682869091843261097
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_6
+  - first:
+      213: -260390441676970166
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_7
+  - first:
+      213: 3369179433261074512
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_8
+  - first:
+      213: -8450828967281838897
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_9
+  - first:
+      213: 4985421727273719076
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_10
+  - first:
+      213: 7231447129724843549
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_11
+  - first:
+      213: 5782798536003378313
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_12
+  - first:
+      213: 6268720545878970954
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_13
+  - first:
+      213: 7122782532919946009
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_14
+  - first:
+      213: 1459260566700347718
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_15
+  - first:
+      213: -8172982907339559928
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_16
+  - first:
+      213: 3254093525769262414
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_17
+  - first:
+      213: 8104417996328989606
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_18
+  - first:
+      213: -7837559128322985570
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_19
+  - first:
+      213: -2529240325760121438
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_20
+  - first:
+      213: -2182519121544787819
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_21
+  - first:
+      213: -7778246726024680266
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_22
+  - first:
+      213: -7205726826693932998
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_23
+  - first:
+      213: 7654076269241347338
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_24
+  - first:
+      213: 8916022487343665717
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_25
+  - first:
+      213: 2312736052435838554
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_26
+  - first:
+      213: -4847602414470990052
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_27
+  - first:
+      213: 6774662974669456186
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_28
+  - first:
+      213: 5816305902755319556
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_29
+  - first:
+      213: 9136785692431443614
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_30
+  - first:
+      213: -731280547506599444
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_31
+  - first:
+      213: 2242755713818382861
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_32
+  - first:
+      213: -2764514707495359322
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_33
+  - first:
+      213: 9093809095196557875
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_34
+  - first:
+      213: 6199126780208980529
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_35
+  - first:
+      213: -7806305430889624926
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_36
+  - first:
+      213: -3789046006328775071
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_37
+  - first:
+      213: -2053356816895854602
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_38
+  - first:
+      213: 8949871109864099810
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_39
+  - first:
+      213: -8669365181782067184
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_40
+  - first:
+      213: -9028865315602801171
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_41
+  - first:
+      213: -1362128373681261086
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_42
+  - first:
+      213: 3512648763926570032
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_43
+  - first:
+      213: -4435352598323277587
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_44
+  - first:
+      213: 6166164789089243444
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_45
+  - first:
+      213: 7601675304592714612
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_46
+  - first:
+      213: 3721764631997609165
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_47
+  - first:
+      213: -4013605459633753882
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_48
+  - first:
+      213: -3228336807470417620
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_49
+  - first:
+      213: 8159662774458220437
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_50
+  - first:
+      213: 3341202378580360230
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_51
+  - first:
+      213: 5727823921855011622
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_52
+  - first:
+      213: -7836740572282760026
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_53
+  - first:
+      213: 2454766576254818914
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_54
+  - first:
+      213: 3325350835068277648
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_55
+  - first:
+      213: -542730836637182311
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_56
+  - first:
+      213: -3333265179760395616
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_57
+  - first:
+      213: -5227138680404963267
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_58
+  - first:
+      213: 2223461161705601541
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_59
+  - first:
+      213: -8139080991849337759
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_60
+  - first:
+      213: 3369609915595965981
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_61
+  - first:
+      213: -1783073660549880428
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_62
+  - first:
+      213: -3587664379196900502
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_63
+  - first:
+      213: -8545041214187151604
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_64
+  - first:
+      213: -3560425625134591638
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_65
+  - first:
+      213: 2553544502786897836
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_66
+  - first:
+      213: 8918780231112969805
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_67
+  - first:
+      213: 2157696393921189736
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_68
+  - first:
+      213: -6991763301699312757
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_69
+  - first:
+      213: -7381850157558605812
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_70
+  - first:
+      213: 6991873225541101913
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_71
+  - first:
+      213: 9041424899328451958
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_72
+  - first:
+      213: -6353421668947794020
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_73
+  - first:
+      213: 6322494761017922494
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_74
+  - first:
+      213: -1373392671768592418
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_75
+  - first:
+      213: -3272981650849446286
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_76
+  - first:
+      213: 9056116927091136760
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_77
+  - first:
+      213: 4524800964493354686
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_78
+  - first:
+      213: -5167143271514983830
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_79
+  - first:
+      213: -7345500714397263155
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_80
+  - first:
+      213: 8867991215559962872
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_81
+  - first:
+      213: -4243312897225055588
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_82
+  - first:
+      213: 5219494163333806839
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_83
+  - first:
+      213: -1587234056787402619
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_84
+  - first:
+      213: 4662436214417544253
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_85
+  - first:
+      213: 5899196370537355498
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_86
+  - first:
+      213: -8712593671339699111
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_87
+  - first:
+      213: 3270981966832768377
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_88
+  - first:
+      213: -5009331610963621773
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_89
+  - first:
+      213: -1692164420208954294
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_90
+  - first:
+      213: -4927457229570398245
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_91
+  - first:
+      213: -2102669772079645110
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_92
+  - first:
+      213: 2216948498397141858
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_93
+  - first:
+      213: -4189169048864234677
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_94
+  - first:
+      213: -5336613016024429194
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_95
+  - first:
+      213: -8429237844627988792
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_96
+  - first:
+      213: -8878099676730239365
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_97
+  - first:
+      213: 1181682625246441678
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_98
+  - first:
+      213: 7529469877234800574
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_99
+  - first:
+      213: -320135054753336771
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_100
+  - first:
+      213: 4114000397348300769
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_101
+  - first:
+      213: -5557459072530300493
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_102
+  - first:
+      213: 3369437035381673891
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_103
+  - first:
+      213: -2562036029796291801
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_104
+  - first:
+      213: 3993996375132530350
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_105
+  - first:
+      213: -369640337858214537
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_106
+  - first:
+      213: -1302621803335275249
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_107
+  - first:
+      213: -7741041749289877001
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_108
+  - first:
+      213: 7007673349413310659
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_109
+  - first:
+      213: 3151625959212104167
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_110
+  - first:
+      213: 2027994302246687985
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_111
+  - first:
+      213: -4763809727307865686
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_112
+  - first:
+      213: 3061481811295564627
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_113
+  - first:
+      213: 4320668117962978879
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_114
+  - first:
+      213: -908888428252788446
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_115
+  - first:
+      213: -9126468784329380334
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_116
+  - first:
+      213: -6560073261822837911
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_117
+  - first:
+      213: 2902300241875404575
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_118
+  - first:
+      213: -464434639750772079
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_119
+  - first:
+      213: 8053065021102356792
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_120
+  - first:
+      213: 6287631496572142272
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_121
+  - first:
+      213: 9171499760482225535
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_122
+  - first:
+      213: 6194569768431196443
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_123
+  - first:
+      213: 6494421103280003652
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_124
+  - first:
+      213: -1681499092473404942
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_125
+  - first:
+      213: 250481571820807521
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_126
+  - first:
+      213: -4343566935794337766
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_127
+  - first:
+      213: 467026084241462701
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_128
+  - first:
+      213: 1674656655939928430
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_129
+  - first:
+      213: -713393065225348372
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_130
+  - first:
+      213: 6616739553471516491
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_131
+  - first:
+      213: -2543902999518828540
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_132
+  - first:
+      213: 8687034396550939536
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_133
+  - first:
+      213: 663932925972988378
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_134
+  - first:
+      213: 3640407739083777296
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_135
+  - first:
+      213: 8034347663355968634
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_136
+  - first:
+      213: 7358162455225834013
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_137
+  - first:
+      213: -4133497470900250084
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_138
+  - first:
+      213: 9182254669030598142
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_139
+  - first:
+      213: -7113592672730218843
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_140
+  - first:
+      213: 539010557215430853
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_141
+  - first:
+      213: 3246014900092900154
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_142
+  - first:
+      213: 7321953821917849498
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_143
+  - first:
+      213: -1374399465511528338
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_144
+  - first:
+      213: 316333894327911950
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_145
+  - first:
+      213: 2048898900649574282
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_146
+  - first:
+      213: -1220305923740807278
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_147
+  - first:
+      213: 253398879736702002
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_148
+  - first:
+      213: 3830793070052355501
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_149
+  - first:
+      213: -3005252099013120478
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_150
+  - first:
+      213: 2834514167790768238
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_151
+  - first:
+      213: -4479079460396563788
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_152
+  - first:
+      213: 8593186751099380157
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_153
+  - first:
+      213: -5041775902134742863
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_154
+  - first:
+      213: 1880721177581214434
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_155
+  - first:
+      213: 4589856926207769451
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_156
+  - first:
+      213: -8119814960739926343
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_157
+  - first:
+      213: -2061441304393084095
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_158
+  - first:
+      213: -1267521778251384108
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_159
+  - first:
+      213: 5423008955815543965
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_160
+  - first:
+      213: 5788512966755359498
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_161
+  - first:
+      213: 1126695685853431148
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_162
+  - first:
+      213: 2826528328068908177
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_163
+  - first:
+      213: -6089369594965487927
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_164
+  - first:
+      213: -8690307989710088114
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_165
+  - first:
+      213: -8367766157720592495
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_166
+  - first:
+      213: 6101512323392153021
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_167
+  - first:
+      213: -7958990891847442776
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_168
+  - first:
+      213: 3192973463934550020
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_169
+  - first:
+      213: -2880090156182515227
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_170
+  - first:
+      213: 8628911656454279074
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_171
+  - first:
+      213: 2879849877086916136
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_172
+  - first:
+      213: 7241196545107860487
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_173
+  - first:
+      213: 2670799111614003778
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_174
+  - first:
+      213: 124667653149645552
+    second: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_175
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3153
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658196e34de65be30800000000000000
+      internalID: 4518639658995357782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3114
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee936ef5da3779a50800000000000000
+      internalID: 6527813373372283374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3106
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca931efbfacd700800000000000000
+      internalID: 566520891794107552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3106
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a5b84b90c5eec0800000000000000
+      internalID: -3538210159057328529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3114
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372fceef12296ef0800000000000000
+      internalID: -114522794975353038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2874
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d556921eea5cc40800000000000000
+      internalID: 5532019999379905822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2846
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2498a6f6fbf7870800000000000000
+      internalID: 8682869091843261097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2846
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47efecd548e26cf0800000000000000
+      internalID: -260390441676970166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2625
+        width: 197
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058041808dab1ce20800000000000000
+      internalID: 3369179433261074512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2565
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b59324df98ba80800000000000000
+      internalID: -8450828967281838897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2565
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251aa5a5a6cf2540800000000000000
+      internalID: 4985421727273719076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2357
+        width: 205
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167443c9d24b5460800000000000000
+      internalID: 7231447129724843549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2310
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c512241a0a04050800000000000000
+      internalID: 5782798536003378313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2310
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421f459f18fef650800000000000000
+      internalID: 6268720545878970954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2105
+        width: 197
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bec0fb9f439d260800000000000000
+      internalID: 7122782532919946009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2053
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d8e001c5504410800000000000000
+      internalID: 1459260566700347718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2053
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cafac195bb39e80800000000000000
+      internalID: -8172982907339559928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1858
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45106d12dcd82d20800000000000000
+      internalID: 3254093525769262414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1798
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3f8768a3da87070800000000000000
+      internalID: 8104417996328989606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1610
+        width: 101
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91303a7f756b3390800000000000000
+      internalID: -7837559128322985570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1546
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5897ff25556ecd0800000000000000
+      internalID: -2529240325760121438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1577
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59843d42c6226b1e0800000000000000
+      internalID: -2182519121544787819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1546
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc24f740dd1e0490800000000000000
+      internalID: -7778246726024680266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1333
+        width: 197
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38c762f0ad100c90800000000000000
+      internalID: -7205726826693932998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1286
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da0e750ddb83a60800000000000000
+      internalID: 7654076269241347338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1286
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532938f86331cbb70800000000000000
+      internalID: 8916022487343665717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1081
+        width: 205
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566da0bf2d781020800000000000000
+      internalID: 2312736052435838554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1041
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177129a94bd9bcb0800000000000000
+      internalID: -4847602414470990052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1033
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a330a2ee410740e50800000000000000
+      internalID: 6774662974669456186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1041
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0db6076ba7b050800000000000000
+      internalID: 5816305902755319556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 854
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966f32bd226cce70800000000000000
+      internalID: 9136785692431443614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 802
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce947be6738f9d5f0800000000000000
+      internalID: -731280547506599444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 466
+        width: 205
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d025f18607edf1f10800000000000000
+      internalID: 2242755713818382861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 410
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac6563458872a9d0800000000000000
+      internalID: -2764514707495359322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_34
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 438
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3324866e033b33e70800000000000000
+      internalID: 9093809095196557875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 410
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132a7f356f8b70650800000000000000
+      internalID: 6199126780208980529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 90
+        width: 205
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0f97f19e6aa390800000000000000
+      internalID: -7806305430889624926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 53
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e29238bba9a6bc0800000000000000
+      internalID: -3789046006328775071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-spaceshiptwo-spacecraft-spaceshipone-openga-space-invaders-5acc8596a36e17.6179693015233529826694_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 53
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7bbcbaad20183e0800000000000000
+      internalID: -2053356816895854602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: beebff3bb93816d44b63130adf0765d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
